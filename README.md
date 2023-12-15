@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ravikum72104548" target="blank"><img src="https://img.shields.io/twitter/follow/ravikum72104548?logo=twitter&style=for-the-badge" alt="ravikum72104548" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Vue.js ,Bootstap**
+- 🌱 I’m currently learning **Django, React Js ,Bootstap**
 
-- 💬 Ask me about **Python , html , CSS , django , java**
+- 💬 Ask me about **Python , html , CSS , django, Rest API's , JavaScript, java**
 
 - 📫 How to reach me **ravimtom@gmail.com**
 
